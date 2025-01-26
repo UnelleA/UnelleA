@@ -4,7 +4,7 @@
 **Developer & Designer Web**  
 -----------------------------  
 
-I am a **Software Engineer** and **Web Developer** with a passion for creating innovative, secure, and user-friendly web and mobile applications. My expertise spans **front-end development**, **back-end programming**, and **UI/UX design**. I am continuously improving my skills through personal and academic projects while exploring new technologies.  
+I am a **Software Engineer** with a passion for creating innovative, secure, and user-friendly web and mobile applications. My expertise spans **front-end development**, **back-end programming**, and **UI/UX design**. I am continuously improving my skills through personal and academic projects while exploring new technologies.  
 
 ---
 
